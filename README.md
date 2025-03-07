@@ -56,6 +56,7 @@ git clone https://github.com/your-org/your-repo.git
 cd your-repo
 npm install  # or yarn install
 npm start  # or yarn start
+```
 
 ## User Research & Feedback
 We conducted user research sessions with rural patients and healthcare providers to refine our prototype. Key feedback includes:
