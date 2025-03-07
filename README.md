@@ -131,8 +131,8 @@ This project operates under:
 ## Collaboration with Local Health Jurisdictions & ACH Organizations
 To ensure effective deployment, we are coordinating with:
 
-- **Local Health Jurisdictions (LHJ)** – Engaging with [County Health Department] to ensure alignment with public health goals.
-- **Accountable Communities of Health (ACH)** – Partnering with [ACH Organization] to integrate with existing rural healthcare networks and Medicaid-funded services.
+- **Local Health Jurisdictions (LHJ)** – Engaging with Adams County Health Department to ensure alignment with public health goals.
+- **Accountable Communities of Health (ACH)** – Partnering with Better Health Together (BHT) to integrate with existing rural healthcare networks and Medicaid-funded services.
 - **Provider Networks** – Collaborating with rural hospitals, clinics, and telemedicine providers to validate workflows.
 - **Community Outreach** – Conducting educational programs for patients on using the virtual clinic effectively.
 
