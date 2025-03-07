@@ -1,1 +1,1 @@
-# Virtual-Rural-Healthcare-Clinic-for-Adams-Washington
+# Virtual Rural Healthcare Clinic for Adams, Washington
